@@ -1,4 +1,4 @@
-![Banner](https://docs.google.com/presentation/d/1KUIgnlvmHpPXkoqKeiMBWpYZL01M5_iN5aiuZRZfS-k/edit?usp=drive_link)
+![Banner](https://res.cloudinary.com/dlapsie/image/upload/v1714463228/dolapom.png_TWITTER_ykui9i.png)
 # Hey there! 👋
 
 Welcome to my GitHub profile! 
