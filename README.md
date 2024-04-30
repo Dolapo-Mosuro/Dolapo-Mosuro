@@ -1,16 +1,20 @@
-### Hi there 👋
+![Banner](https://docs.google.com/presentation/d/1KUIgnlvmHpPXkoqKeiMBWpYZL01M5_iN5aiuZRZfS-k/edit?usp=drive_link)
+# Hey there! 👋
 
-<!--
-**Dolapo-Mosuro/Dolapo-Mosuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 
 
-Here are some ideas to get you started:
+## About Me
+I'm Dolapo Mosuro, a passionate Software Developer who loves coding, design, and all things creative. When I'm not glued to my computer screen, you can find me Dancing, or getting lost in a good book.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Into
+- 💻 Coding (of course!)
+- 🎨 Designing eye-catching graphics and user-friendly interfaces
+- 🌱 Learning new things every day
+- 📚 Reading anything and everything I can get my hands on
+
+## Let's Connect!
+- 🐦 [Twitter](https://twitter.com/DolapoMosuro)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dolapo-mosuro-23059076/)
+- 🌐 [Personal Website](https://www.yourwebsite.com)
+
+Feel free to explore my projects and don't hesitate to reach out. I'm always up for a chat or collaboration!
