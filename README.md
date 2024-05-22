@@ -1,4 +1,4 @@
-![Banner](https://res.cloudinary.com/dlapsie/image/upload/v1714463446/Frame_gy7yrl.png)
+![Banner](https://res.cloudinary.com/dlapsie/image/upload/v1716377775/Dolapo.png)
 # Hey there! 👋
 
 Welcome to my GitHub profile! 
