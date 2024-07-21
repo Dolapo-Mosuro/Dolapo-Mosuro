@@ -78,12 +78,12 @@ I'm Dolapo Mosuro, a passionate Software Developer who loves coding, design, and
 
 <br>
 <a href="https://twitter.com/DolapoMosuro">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
 <br><a href="https://www.linkedin.com/in/dolapo-mosuro-23059076/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <br><a href="https://dolapo-mosuro.github.io/Dolapo-Mosuro_Portfolio/">
-      <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=Website&logoColor=white"
+      <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=website&logoColor=white"
       alt="Website">
 <br>
 
