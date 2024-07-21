@@ -68,7 +68,7 @@ I'm Dolapo Mosuro, a passionate Software Developer who loves coding, design, and
 </div>
 
 ## Let's Connect!
-###### Nice Meeting you, I'm always up for a chat or collaboration!
+###### Nice meeting you, I'm always up for a chat or collaboration!
 
 <br>
 <a href="https://twitter.com/DolapoMosuro">
