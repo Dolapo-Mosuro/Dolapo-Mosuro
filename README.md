@@ -4,7 +4,6 @@
 # Hey there! 👋
 <!--  -->
 
-<p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Software+Engineer;Driven+Backend+Developer%2C;With+a+strong+foundation+in+computer+programming;And+problem-solving++skills.)](https://git.io/typing-svg)
 <br>	
 ## <picture><img src="https://github.com/blessingtutka/blessingtutka/assets/117514619/7ce8f72f-a916-4e00-8223-1bdce131534b" width = 50px></picture> **About me**
