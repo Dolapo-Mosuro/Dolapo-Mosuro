@@ -10,14 +10,6 @@
 
 I'm Dolapo Mosuro, a passionate Software Developer who loves coding, design, and all things creative. When I'm not glued to my computer screen, you can find me Dancing, or getting lost in a good book.
 
-<br>	
-## What I'm Into
-
-- 💻 Coding (of course!)
-- 🎨 Designing eye-catching graphics and user-friendly interfaces
-- 🌱 Learning new things every day
-- 📚 Reading anything and everything I can get my hands on
-
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
