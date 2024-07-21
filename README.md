@@ -18,20 +18,12 @@ I'm Dolapo Mosuro, a passionate Software Developer who loves coding, design, and
 
 <p align="center">
 
-- 👩‍💻 **Languages**:
-    
+- 🤖 **Backend-End Languages & Frameworks**:
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![PYTHON](https://img.shields.io/badge/PYTHON%20-%23377EC7.svg?style=for-the-badge&logo=python&logoColor=white)
-    
-
-- 🤖 **Backend-End Frameworks**:
-
     ![TypeScipt](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-    ![NestJs](https://img.shields.io/badge/NestJs%20-%23092E20.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-    ![Django-Rest](https://img.shields.io/badge/Django%20Rest%20Framework%20-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-    ![Express](https://img.shields.io/badge/Express%20-%23008BCC.svg?style=for-the-badge&logo=express&logoColor=white)
+    ![Django](https://img.shields.io/badge/Django%20-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 - 💻 **Front-End Development Languages and Frameworks**:
     
