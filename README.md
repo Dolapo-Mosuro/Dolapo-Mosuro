@@ -78,11 +78,14 @@ I'm Dolapo Mosuro, a passionate Software Developer who loves coding, design, and
 <a href="https://dolapo-mosuro.github.io/Dolapo-Mosuro_Portfolio/">
       <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=website&logoColor=white"
       alt="Website">
+ <a href="mosurodolapo@gmail.com">
+      <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Website">
 <br>
 
-###### Nice Meeting you all, Feel free to explore my projects and don't hesitate to reach out. I'm always up for a chat or collaboration!
+###### Nice Meeting you, I'm always up for a chat or collaboration!
 
 
 
-
+## Visitors Count
 ![Visitor Count](https://profile-counter.glitch.me/{dolapo-mosuro}/count.svg)
