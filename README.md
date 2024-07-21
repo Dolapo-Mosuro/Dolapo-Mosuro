@@ -3,7 +3,7 @@
 
 # Hey there! 👋
 <!--  -->
- <p align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Software+Engineer;Driven+Backend+Developer%2C;With+a+strong+foundation+in+programming;And+problem-solving++skills.)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Software+Engineer;Driven+Backend+Developer%2C;With+a+strong+foundation+in+programming;And+problem-solving++skills.)](https://git.io/typing-svg)
 
 <br>
 ## **About me** 
