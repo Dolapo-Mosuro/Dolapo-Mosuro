@@ -23,12 +23,13 @@ I'm Dolapo Mosuro, a passionate Software Developer who loves coding, design, and
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![TypeScipt](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-- 🤖 **Backend-End Development Languages**:
-
     ![PYTHON](https://img.shields.io/badge/PYTHON%20-%23377EC7.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Django](https://img.shields.io/badge/DJANGO%20-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+    
+
+- 🤖 **Backend-End Frameworks**:
+
+    ![TypeScipt](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+    ![NestJs](https://img.shields.io/badge/NestJs%20-%23092E20.svg?style=for-the-badge&logo=nestjs&logoColor=white)
     ![Django-Rest](https://img.shields.io/badge/Django%20Rest%20Framework%20-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
     ![Express](https://img.shields.io/badge/Express%20-%23008BCC.svg?style=for-the-badge&logo=express&logoColor=white)
 
@@ -67,9 +68,9 @@ I'm Dolapo Mosuro, a passionate Software Developer who loves coding, design, and
 
 <h2>  My Stats  </h2>
   
-[![GitHub Streak](https://github-readme-streak-stat-dusky.vercel.app?user=dolapo-mosuro&card_width=1000)](https://git.io/streak-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dolapo-mosuro&theme=prussian&card_width=1000)](https://github.com/dolapo-mosuro/github-readme-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dolapo-mosuro&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=1000)
+[![GitHub Streak](https://github-readme-streak-stat-dusky.vercel.app?user=dolapo-mosuro&card_width=800)](https://git.io/streak-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dolapo-mosuro&theme=prussian&card_width=800)](https://github.com/dolapo-mosuro/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dolapo-mosuro&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=800&card_heigth=800)
 
 <br>	
 
