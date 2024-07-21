@@ -67,7 +67,7 @@ I'm Dolapo Mosuro, a passionate Software Developer who loves coding, design, and
 </div>
 
 ## Let's Connect!
-
+###### Nice Meeting you, I'm always up for a chat or collaboration!
 
 <br>
 <a href="https://twitter.com/DolapoMosuro">
@@ -82,8 +82,6 @@ I'm Dolapo Mosuro, a passionate Software Developer who loves coding, design, and
       <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Website">
 <br>
-
-###### Nice Meeting you, I'm always up for a chat or collaboration!
 
 
 
