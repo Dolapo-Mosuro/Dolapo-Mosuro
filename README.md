@@ -57,8 +57,9 @@ I'm Dolapo Mosuro, a passionate Software Developer who loves coding, design, and
 </p>
 
 <br>
-<div align="center">
 <h2>  My Stats  </h2>
+<div align="center">
+
   
 [![GitHub Streak](https://github-readme-streak-stat-dusky.vercel.app?user=dolapo-mosuro&card_width=800)](https://git.io/streak-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=dolapo-mosuro&theme=prussian&card_width=800)](https://github.com/dolapo-mosuro/github-readme-stats)
