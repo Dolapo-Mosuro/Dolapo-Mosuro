@@ -5,7 +5,6 @@
 <!--  -->
  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Software+Engineer;Driven+Backend+Developer%2C;With+a+strong+foundation+in+programming;And+problem-solving++skills.)](https://git.io/typing-svg)
 
-<br>
 
 ## **About me** 
 I'm Dolapo Mosuro, a passionate Software Developer who loves coding, design, and all things creative. When I'm not glued to my computer screen, you can find me Dancing, or getting lost in a good book.
