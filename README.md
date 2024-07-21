@@ -38,7 +38,6 @@ I'm Dolapo Mosuro, a passionate Software Developer who loves coding, design, and
     ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![TypeScipt](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
     ![React](https://img.shields.io/badge/react%20-%2300D8FF.svg?style=for-the-badge&logo=react&logoColor=black)
 
 - ☁ **Cloud Hosting**:
@@ -70,7 +69,7 @@ I'm Dolapo Mosuro, a passionate Software Developer who loves coding, design, and
   
 [![GitHub Streak](https://github-readme-streak-stat-dusky.vercel.app?user=dolapo-mosuro&card_width=800)](https://git.io/streak-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=dolapo-mosuro&theme=prussian&card_width=800)](https://github.com/dolapo-mosuro/github-readme-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dolapo-mosuro&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=800&card_heigth=800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dolapo-mosuro&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <br>	
 
