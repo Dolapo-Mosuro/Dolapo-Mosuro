@@ -2,12 +2,13 @@
 
 
 # Hey there! 👋
+<!--  -->
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B6FF&random=false&width=550&lines=Hi+Dolapo+Mosuro+here+;A + Software+Engineer+%2C;Driven+Backend+Developer%2C;With+a+strong+foundation+in+computer+programming%2C;And+problem-solving++skills." alt="Typing SVG" /></a>
 </p>
 
-
+<br>	
 ## <picture><img src="https://github.com/blessingtutka/blessingtutka/assets/117514619/7ce8f72f-a916-4e00-8223-1bdce131534b" width = 50px></picture> **About me**
 
 I'm Dolapo Mosuro, a passionate Software Developer who loves coding, design, and all things creative. When I'm not glued to my computer screen, you can find me Dancing, or getting lost in a good book.
