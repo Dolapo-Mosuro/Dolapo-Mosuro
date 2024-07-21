@@ -87,4 +87,4 @@ I'm Dolapo Mosuro, a passionate Software Developer who loves coding, design, and
 
 
 ## Visitors Count
-![Visitor Count](https://profile-counter.glitch.me/{dolapo-mosuro}/count.svg)
+![](https://profile-counter.glitch.me/{dolapo-mosuro}/count.svg)
