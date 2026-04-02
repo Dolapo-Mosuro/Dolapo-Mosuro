@@ -61,7 +61,7 @@ I'm Dolapo Mosuro, a passionate Software Developer who loves coding, design, and
 <div align="center">
 
   
-[![GitHub Streak](https://github-readme-streak-stat-dusky.vercel.app?user=dolapo-mosuro)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dolapo-mosuro&theme=highcontrast&hide_border=true&border_radius=3.6&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=dolapo-mosuro&theme=prussian&card_width=800)](https://github.com/dolapo-mosuro/github-readme-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dolapo-mosuro&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=800)
 
